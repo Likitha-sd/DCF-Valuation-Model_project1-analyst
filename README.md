@@ -1,4 +1,4 @@
-🧾 README: Discounted Cash Flow (DCF) Valuation Model
+🧾 Discounted Cash Flow (DCF) Valuation Model
 📌 Overview
 This project estimates the Enterprise Value of a company using the Discounted Cash Flow (DCF) method. By forecasting future cash flows and discounting them using a weighted average cost of capital (WACC), we derive a data-driven valuation that reflects the intrinsic worth of the business.
 🧠 Key Concepts
