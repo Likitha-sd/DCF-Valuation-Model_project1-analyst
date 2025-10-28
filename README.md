@@ -25,5 +25,6 @@ python financeproject1.py
 - Integrate real-time financial data using APIs
 - Build a user interface or dashboard
 - Compare valuations across multiple companies
-  project done by Likitha sri Maddipatla
+
+- project done by Likitha sri Maddipatla
 
